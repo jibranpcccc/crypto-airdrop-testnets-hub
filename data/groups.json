@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-airdrop-testnets-hub-reddit-20260920-1",
+    "title": "r/deficryptos Deep Strategy Forum",
+    "platform": "Reddit",
+    "category": "DeFi Research",
+    "memberCount": "145,000+ members",
+    "description": "In-depth forum exploring decentralized protocols, LP staking strategies, smart contract security, and liquidity architecture.",
+    "joinUrl": "https://www.reddit.com/r/deficryptos/",
+    "tags": [
+      "deficryptos",
+      "yield",
+      "liquidity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "crypto-airdrop-testnets-hub-reddit-20260919-1",
     "title": "r/altcoin Research & Discovery",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
