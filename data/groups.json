@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-airdrop-testnets-hub-discord-20260924-1",
+    "title": "Jupiter Exchange Discord Community",
+    "platform": "Discord",
+    "category": "Solana Trading",
+    "memberCount": "80,000+ members",
+    "description": "Official real-time community for Jupiter users, perpetual traders, developer APIs, and ecosystem governance.",
+    "joinUrl": "https://discord.gg/jup",
+    "tags": [
+      "jupiter",
+      "discord",
+      "trading",
+      "dex"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "crypto-airdrop-testnets-hub-discord-20260923-1",
     "title": "Raydium Protocol Discord Server",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
