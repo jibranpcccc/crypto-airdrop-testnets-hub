@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-airdrop-testnets-hub-discord-20260925-1",
+    "title": "Phantom Wallet Community Discord",
+    "platform": "Discord",
+    "category": "Web3 Wallets",
+    "memberCount": "120,000+ members",
+    "description": "Community Discord for Phantom wallet users, multi-chain dApp integration, security best practices, and release alerts.",
+    "joinUrl": "https://discord.gg/phantom",
+    "tags": [
+      "phantom",
+      "wallet",
+      "solana",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "crypto-airdrop-testnets-hub-discord-20260924-1",
     "title": "Jupiter Exchange Discord Community",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
