@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-airdrop-testnets-hub-discord-20260927-1",
+    "title": "Orca DEX Community Discord",
+    "platform": "Discord",
+    "category": "Solana DeFi",
+    "memberCount": "40,000+ members",
+    "description": "Community for Orca whirlpool liquidity providers, Whirlpools SDK developers, and token swap optimization.",
+    "joinUrl": "https://discord.gg/orca",
+    "tags": [
+      "orca",
+      "whirlpools",
+      "dex",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "crypto-airdrop-testnets-hub-discord-20260925-1",
     "title": "Phantom Wallet Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
