@@ -1,5 +1,24 @@
 [
   {
+    "id": "crypto-airdrop-testnets-hub-telegram-20261002-1",
+    "title": "DexScreener Alerts Telegram",
+    "platform": "Telegram",
+    "category": "DEX Alerts",
+    "memberCount": "85,000+ members",
+    "description": "Automated price alert bot and news channel covering high-volume pair creations and liquidity surges.",
+    "joinUrl": "https://t.me/dexscreener",
+    "tags": [
+      "dexscreener",
+      "telegram",
+      "alerts",
+      "trading"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "crypto-airdrop-testnets-hub-telegram-20261001-1",
     "title": "Jupiter Exchange Telegram Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {
