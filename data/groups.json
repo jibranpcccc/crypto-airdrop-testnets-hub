@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/LayerZero Cross-Chain Protocol",
+    "platform": "Reddit",
+    "category": "Interoperability",
+    "memberCount": "26,000+ members",
+    "description": "LayerZero omnichain messaging, Stargate bridge routing, cross-chain OFT transfers, and protocol activity.",
+    "joinUrl": "https://www.reddit.com/r/LayerZero/",
+    "tags": [
+      "layerzero",
+      "omnichain",
+      "stargate",
+      "bridge"
+    ],
+    "id": "crypto-airdrop-testnets-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/zksync Zero-Knowledge Scaling",
     "platform": "Reddit",
     "category": "ZK Rollups",
@@ -15,7 +34,7 @@
     "id": "crypto-airdrop-testnets-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -815,24 +834,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/LayerZero Cross-Chain Protocol",
-    "platform": "Reddit",
-    "category": "Interoperability",
-    "memberCount": "26,000+ members",
-    "description": "LayerZero omnichain messaging, Stargate bridge routing, cross-chain OFT transfers, and protocol activity.",
-    "joinUrl": "https://www.reddit.com/r/LayerZero/",
-    "tags": [
-      "layerzero",
-      "omnichain",
-      "stargate",
-      "bridge"
-    ],
-    "id": "crypto-airdrop-testnets-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/berachain Proof-of-Liquidity",
