@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/berachain Proof-of-Liquidity",
+    "platform": "Reddit",
+    "category": "L1 Blockchain",
+    "memberCount": "22,000+ members",
+    "description": "Community dedicated to Berachain testnet quests (Bartio), Proof-of-Liquidity consensus, and ecosystem dApps.",
+    "joinUrl": "https://www.reddit.com/r/berachain/",
+    "tags": [
+      "berachain",
+      "pol",
+      "testnet",
+      "crypto"
+    ],
+    "id": "crypto-airdrop-testnets-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/LayerZero Cross-Chain Protocol",
     "platform": "Reddit",
     "category": "Interoperability",
@@ -15,7 +34,7 @@
     "id": "crypto-airdrop-testnets-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -834,24 +853,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/berachain Proof-of-Liquidity",
-    "platform": "Reddit",
-    "category": "L1 Blockchain",
-    "memberCount": "22,000+ members",
-    "description": "Community dedicated to Berachain testnet quests (Bartio), Proof-of-Liquidity consensus, and ecosystem dApps.",
-    "joinUrl": "https://www.reddit.com/r/berachain/",
-    "tags": [
-      "berachain",
-      "pol",
-      "testnet",
-      "crypto"
-    ],
-    "id": "crypto-airdrop-testnets-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Starknet ZK-STARK Ecosystem",
