@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/Starknet ZK-STARK Ecosystem",
+    "platform": "Reddit",
+    "category": "Layer 2 ZK",
+    "memberCount": "28,000+ members",
+    "description": "Cairo programming, Starknet appchains, STRK governance voting, and ecosystem dApp testnets.",
+    "joinUrl": "https://www.reddit.com/r/starknet/",
+    "tags": [
+      "starknet",
+      "cairo",
+      "zkstark",
+      "layer2"
+    ],
+    "id": "crypto-airdrop-testnets-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/berachain Proof-of-Liquidity",
     "platform": "Reddit",
     "category": "L1 Blockchain",
@@ -15,7 +34,7 @@
     "id": "crypto-airdrop-testnets-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/Starknet ZK-STARK Ecosystem",
-    "platform": "Reddit",
-    "category": "Layer 2 ZK",
-    "memberCount": "28,000+ members",
-    "description": "Cairo programming, Starknet appchains, STRK governance voting, and ecosystem dApp testnets.",
-    "joinUrl": "https://www.reddit.com/r/starknet/",
-    "tags": [
-      "starknet",
-      "cairo",
-      "zkstark",
-      "layer2"
-    ],
-    "id": "crypto-airdrop-testnets-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Base Coinbase L2 Ecosystem",
